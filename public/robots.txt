@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://v55dqkmukq7hl6hty5sn6wlbcfn6ldadxt3h4wuynb2dyonpu5hrcmyd.onion/sitemap.xml

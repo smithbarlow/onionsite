@@ -1,4 +1,4 @@
-baseURL = 'https://smithbarlow.xyz/'
+baseURL = 'http://v55dqkmukq7hl6hty5sn6wlbcfn6ldadxt3h4wuynb2dyonpu5hrcmyd.onion/'
 languageCode = 'en-us'
 title = 'smithbarlow.xyz'
 theme = "hugo-bearcub"
